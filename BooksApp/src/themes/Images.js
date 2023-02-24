@@ -1,0 +1,16 @@
+export default {
+    b1: require("../assets/images/b1.png"),
+    b2: require("../assets/images/b2.png"),
+    b3: require("../assets/images/b3.png"),
+    b4: require("../assets/images/b4.png"),
+    b5: require("../assets/images/b5.png"),
+    b6: require("../assets/images/b6.png"),
+    b7: require("../assets/images/b7.png"),
+    b8: require("../assets/images/b8.png"),
+    b9: require("../assets/images/b9.png"),
+    b10: require("../assets/images/b10.png"),
+    b11: require("../assets/images/b11.png"),
+    b12: require("../assets/images/b12.png"),
+    heart: require("../assets/images/heart.png"),
+    heart_active: require("../assets/images/heart_active.png"),
+}
